@@ -11,3 +11,4 @@ def sigmoid(z):
     return = 1 / (1 + np.e**-z)
 
 print('i made a change')
+print('a second change - testing')
