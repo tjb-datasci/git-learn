@@ -6,3 +6,6 @@ print(x)
 
 x_log = np.log(x).dropna()
 print(x_log)
+
+def sigmoid(z):
+    return = 1 / (1 + np.e**-z)
